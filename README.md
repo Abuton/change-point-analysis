@@ -6,4 +6,5 @@ The African Union has hired Batch3 LLC, a data science consultancy, to gather in
 
 The contract wants Batch 3 LLC to investigate the following countries to identify which  interventions had the most effect on the country under study. The African Union is looking to the analysis results from Batch3 LLC to both drive policy recommendations to countries in Africa on how to deal with Covid-19 as well as to help countries prepare for future pandemics. 
 
-## SIR/ SEIR Models were built to forecast coronavirus cases in different countries using the covid19_inference module
+## SIR/ SEIR Models were built 
+    to forecast coronavirus cases in different countries using the covid19_inference module
